@@ -1,0 +1,19 @@
+{
+  "name": "ngx-demo-forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/certaworksit/ngx-forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/certaworksit/ngx-forms/issues"
+  },
+  "homepage": "https://github.com/certaworksit/ngx-forms#readme"
+}
